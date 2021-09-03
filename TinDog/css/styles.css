@@ -66,6 +66,9 @@ h1 {
     padding-bottom: 1.5rem;
 }
 
+.feature i:hover {
+    color: #ff4c68;
+}
 .feature {
     text-align: center;
 }
