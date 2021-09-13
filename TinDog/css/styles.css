@@ -157,3 +157,23 @@ h2 {
 .download-button-cta {
     margin: 1rem;
 }
+
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 7%;
+}
+
+#footer img {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin: 1rem;
+}
+
+.social-icons {
+    padding-bottom: 1.5rem;
+}
+
+#footer p {
+    color: #8f8f8f;
+}
