@@ -1,2 +1,3 @@
-console.log($("a").attr("href"));
-$("a").attr("href","https://www.g1.globo.com");
+$("h1").click(function () {
+    $("h1").css("color","purple");
+})
